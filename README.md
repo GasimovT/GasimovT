@@ -27,4 +27,7 @@ I'm Tofig Gasimov!
 
 <a href="https://www.linkedin.com/in/tofiggasimov/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+<a href="mailto:tofiggasimov@outlook.com">![tofiggasimov@outlook.com](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)</a>
+
+
 
