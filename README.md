@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GasimovT
 - 👀 I’m interested in Coding, Database, Soccer, Travel, Fishing
 - 🌱 I’m currently takig Python online courses to refresh my knowledge on Python and improve myself more on this programming language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking forward to collaborating on Python and SQL projects 
 - 📫 How to reach me...
 
 <!---
