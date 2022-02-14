@@ -10,7 +10,7 @@
 
 <h2> Education </h2>
 
--   <i> BBA - Computer Information Systems Gradute from James Madison University
+-   <i> BBA - Computer Information Systems Gradute from James Madison University, December 2021
 
 
 <h2>💻 I'm Currently Learning/Improving myself on:</h2>
@@ -52,6 +52,8 @@
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
 
+
+<h2> Previous Projects </h2>
 
 
 <h2> Interests </h2>
