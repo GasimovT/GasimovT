@@ -2,12 +2,11 @@
 
 <h2>Hey! 👋 Welcome to my Github! </h2>
 
-![](/Images/astro.jpg)
-
+<h2> I'm Tofig Gasimov! </h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
 
-I'm Tofig Gasimov!
+![](/Images/astro.jpg)
 
 <h2> Education: </h2>
 
