@@ -25,6 +25,6 @@ I'm Tofig Gasimov!
 
 <h1> 📫 How to reach me:</h1>
 
-<a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="<https://www.linkedin.com/in/tofig-gasimov-2746481a1/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
