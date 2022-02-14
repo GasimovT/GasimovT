@@ -7,11 +7,9 @@
 - Email: tofiggasimov@outlook.com
 
 
-<a img="https://github.com/GasimovT/GasimovT/blob/main/Images/astro.jpg"></a>
-
-![](https://github.com/GasimovT/GasimovT/blob/main/Images/astro.jpg)
-
 <h2>Hey! 👋 Welcome to my Github! </h2>
+
+<a img="https://github.com/GasimovT/GasimovT/blob/main/Images/astro.jpg"></a>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
 
