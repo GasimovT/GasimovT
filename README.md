@@ -6,6 +6,8 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
 
+<img src="/Images/astro.jpg" width="100" height="100">
+
 ![](/Images/astro.jpg)
 
 <h2> Education </h2>
