@@ -2,7 +2,7 @@
 
 <h2>Hey! 👋 Welcome to my Github! </h2>
 
-![](https://github.com/GasimovT/GasimovT/blob/main/Images/astro.jpg)
+![](/Images/astro.jpg)
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
