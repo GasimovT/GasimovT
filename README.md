@@ -7,7 +7,11 @@
 - Email: tofiggasimov@outlook.com
 
 
-<h2>Hey! 👋 </h2>
+<a img="https://github.com/GasimovT/GasimovT/blob/main/Images/astro.jpg"></a>
+
+![](https://github.com/GasimovT/GasimovT/blob/main/Images/astro.jpg)
+
+<h2>Hey! 👋 Welcome to my Github! </h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
 
@@ -21,6 +25,7 @@ I'm Tofig Gasimov!
 <h2>💻 I'm Currently Learning/Improving myself on:</h2>
 
 -   <i> Python 
+-   <i> Python for Everybody Specialization on Coursera
 
 
 <h2> 📫 How to reach me: </h2>
