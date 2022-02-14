@@ -17,9 +17,9 @@
 
 -   <i> Python for Everybody Specialization on Coursera 
 
-<h2>💻 Technical Stack </h2>
+<h3>💻 Technical Stack </h3>
 
--   <i> Programming
+-   <h1> Programming </h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
