@@ -7,7 +7,24 @@
 - Email: tofiggasimov@outlook.com
 
 
-<!---
-GasimovT/GasimovT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Hey! 👋 </h2>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
+
+I'm Tofig Gasimov!
+
+<h2> Education: </h2>
+
+-   <i> BBA - Computer Information Systems Gradute from James Madison University
+
+
+<h2>💻 I'm Currently Learning/Improving myself on:</h2>
+
+-   <i> Python 
+
+
+<h1> 📫 How to reach me:</h1>
+
+<a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
