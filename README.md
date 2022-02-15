@@ -10,7 +10,7 @@
 <img src="/Images/astro.jpg" width="380" height="450">   
 
 <h2> About Tofig ⚡ </h2>
-<i> I'm a Graduate living in Cambridge, MA. Outside Tech, I enjoy music, traveling, gaming, Twitch, fishing and exploring nature outdoors
+<i> I'm a Graduate living in Cambridge, MA. Outside Tech, I enjoy music, traveling, gaming, watching Twitch, fishing and exploring nature outdoors
 <h2> Education 🎓</h2>
 
 -   <i> B.B.A - Computer Information Systems from James Madison University, December 2021
