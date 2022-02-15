@@ -7,13 +7,12 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
 
 
-<img src="/Images/space3.jpg" width="380" height="450">   <img src="/Images/astro.jpg" width="380" height="450">   
+<img src="/Images/astro.jpg" width="380" height="450">   
 
 
 <h2> Education </h2>
 
--   <i> BBA - Computer Information Systems Gradute from James Madison University, December 2021
-
+-   <i> B.B.A - Computer Information Systems from James Madison University, December 2021
 
 <h2>💻 I'm Currently Learning/Improving myself on:</h2>
 
@@ -79,6 +78,7 @@
 <br></br>
 
 <h2> About Tofig ⚡ </h2>
+<i> I'm a Graduate student living in Cambridge, MA. Outside Tech, I enjoy listening to music, traveling 
 
 <h2> Interests </h2>
 
