@@ -7,9 +7,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
 
 
-<img src="/Images/astro.jpg" width="380" height="450">   
+<img src="/Images/space3.jpg" width="380" height="450">   <img src="/Images/astro.jpg" width="380" height="450">   
 
-<br></br>
 
 <h2> Education </h2>
 
