@@ -1,6 +1,6 @@
 
 
-<img src="/Images/astro.jpg"> 
+<img src="/Images/picsart1.jpg"> 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
   
