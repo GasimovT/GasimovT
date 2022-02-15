@@ -1,6 +1,6 @@
 
 
-<img src="/Images/picsart.png"> 
+<img src="/Images/picsart3.png"> 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
   
