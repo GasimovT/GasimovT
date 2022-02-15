@@ -9,8 +9,9 @@
 
 <img src="/Images/astro.jpg" width="380" height="450">   
 
-
-<h2> Education </h2>
+<h2> About Tofig ⚡ </h2>
+<i> I'm a Graduate student living in Cambridge, MA. Outside Tech, I enjoy music, traveling, gaming, Twitch, fishing and explore nature outdoors
+<h2> Education 🎓</h2>
 
 -   <i> B.B.A - Computer Information Systems from James Madison University, December 2021
 
@@ -76,9 +77,6 @@
 *   <i> Created consultant-grade functional and structural UML models using MS Visio and Gliffy
 
 <br></br>
-
-<h2> About Tofig ⚡ </h2>
-<i> I'm a Graduate student living in Cambridge, MA. Outside Tech, I enjoy listening to music, traveling 
 
 <h2> Interests </h2>
 
