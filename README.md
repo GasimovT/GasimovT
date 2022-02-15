@@ -1,13 +1,9 @@
 
 
-<h2>Hey! 👋 Welcome to my Github! </h2>
-
-<h2> I'm Tofig Gasimov! </h2>
+<img src="/Images/astro.jpg"> 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GasimovT.GasimovT)](https://github.com/GasimovT)
-
-
-<img src="/Images/astro.jpg" width="380" height="450">   
+  
 
 <h2> About Tofig ⚡ </h2>
 <i> I'm a Graduate living in Cambridge, MA. Outside Tech, I enjoy music, traveling, gaming, watching Twitch, fishing and exploring nature outdoors
