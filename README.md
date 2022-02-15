@@ -20,7 +20,6 @@
 -   <i> Python
 -   <i> Python for Everybody Specialization on Coursera 
 
-<br></br>
 
 <h2>💻 Technical Stack </h2>
 
@@ -55,7 +54,6 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
-<br></br>
 
 <h2> Previous Projects </h2>
 <h3> Web Developer, IS Development & Capstone, JMU </h3>
@@ -76,7 +74,6 @@
 
 *   <i> Created consultant-grade functional and structural UML models using MS Visio and Gliffy
 
-<br></br>
 
 <h2> Interests </h2>
 
@@ -86,7 +83,6 @@
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
-<br></br>
 
 <h2> 📫 How to reach me: </h2>
 
