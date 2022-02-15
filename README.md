@@ -52,7 +52,7 @@
 
 
 <h2> Previous Projects </h2>
-<h3> Web Developer, IS Development & Capstone, JMU </h3>
+<h3> Web Developer, IS Development & Implementation Capstone, JMU </h3>
 
 *   <i> Served as Web Developer in a team of eight to develop a user-friendly Web-based Application for text analysis software
 
