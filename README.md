@@ -48,31 +48,25 @@
 <h2> Previous Projects </h2>
 <h3> Web Developer, IS Development & Implementation Capstone, JMU Course</h3>
 
-*   <i> Served as Web Developer in a team of eight to develop a user-friendly Web-based
-Application for text analysis software
+*   <i>Developed a user-friendly Web-based Application for text analysis software
 
-*   <i> Utilized Microsoft SQL Server as the database and .Net as the application layer for the
-software interface (using C#)
+*   <i>Utilized Microsoft SQL Server as the database and .Net as the application layer for the software interface (using C#) 
 
-*   <i> Responsibilities included: Front-end & Back-end Development; setting up an environment
-and deploying an application to AWS; assisting Client Liaison to gather functional & nonfunctional requirements; establishing send & receive data functionality from client’s
-software using REST API
+*   <i>Back-end & Front-end Development; setting up an environment and deploying an application to AWS; assisting Client Liaison to gather functional & non-functional requirements; establishing send & receive data functionality from client’s software using REST API
 
-*   <i> Successfully applied Agile development methodology: Scrum practices throughout the
-project
+*   <i>Applied Agile development methodology: Scrum practices throughout the project
+
 
 <h3> Business Analyst, System & Analysis Design, JMU Course</h3>
 
-*   <i> Created a system proposal as a part of a team for the development of a new system for a
-pet care company
+*   <i>Created a system proposal as a part of a team for the development of a new system 
 
-*   <i> Gathered user requirements by interviewing the client to obtain a better understanding of
-the current system
- 
-*   <i> Proposed a new business process, allowing the company to earn additional 25% revenue
-and reduction in staff with a $52,000 cost saving over the next five years
+*   <i>Gathered user requirements by interviewing the client 
 
-*   <i> Created consultant-grade functional and structural UML models using MS Visio and Gliffy
+*   <i>New business process allowed the company to earn additional 25% revenue over the next five years
+
+*   <i>Created consultant-grade functional and structural UML models using MS Visio and Gliffy
+
 
 <h3> Entry-Level SQL Developer, Database Design & Application Individual Project, JMU Course</h3>
 
