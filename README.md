@@ -74,6 +74,19 @@ and reduction in staff with a $52,000 cost saving over the next five years
 
 *   <i> Created consultant-grade functional and structural UML models using MS Visio and Gliffy
 
+<h3> Entry-Level SQL Developer, Database Design & Application Individual Project, JMU Course</h3>
+
+*   <i>Created database for inventory tracking system from scratch
+
+*   <i>Gathered requirements by interviewing several grocery chains in the local area 
+
+*   <i>Sketched out the ERD using Gliffy
+
+*   <i>By utilizing SQL Server, developed, and executed Create/Alter/Drop table statements (DDL); Transactions that included Update/Insert/Delete statements (DML); Queries such as Inner/Left-Outer/Union joins; Trigger/Stored Procedures, and Indexes
+
+*   <i>Project can be accessed at https://github.com/GasimovT/SQL 
+
+
 
 <h2> Interests </h2>
 
