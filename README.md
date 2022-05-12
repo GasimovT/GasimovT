@@ -14,7 +14,7 @@
 <h2>💻 I'm Currently Learning/Improving myself on:</h2>
 
 -   <i> Java (University of Helsinki’s free massive open online course (MOOC))
--   <i> Tableau (Tableau 2020 for data science, Udemy)
+-   <i> Tableau (Tableau 2020 for data science on Udemy)
 -   <i> Python for Everybody Specialization on Coursera 
 
 
@@ -46,7 +46,7 @@
 
 
 <h2> Previous Projects </h2>
-<h3> Web Developer, IS Development & Implementation Capstone, JMU </h3>
+<h3> Web Developer, IS Development & Implementation Capstone, JMU Course</h3>
 
 *   <i> Served as Web Developer in a team of eight to develop a user-friendly Web-based
 Application for text analysis software
@@ -61,7 +61,7 @@ software using REST API
 *   <i> Successfully applied Agile development methodology: Scrum practices throughout the
 project
 
-<h3> Business Analyst, System & Analysis Design, JMU </h3>
+<h3> Business Analyst, System & Analysis Design, JMU Course</h3>
 
 *   <i> Created a system proposal as a part of a team for the development of a new system for a
 pet care company
