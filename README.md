@@ -13,8 +13,8 @@
 
 <h2>💻 I'm Currently Learning/Improving myself on:</h2>
 
--   <i> Java
--   <i> Python
+-   <i> Java (University of Helsinki’s free massive open online course (MOOC))
+-   <i> Tableau (Tableau 2020 for data science, Udemy)
 -   <i> Python for Everybody Specialization on Coursera 
 
 
@@ -33,7 +33,7 @@
 
     ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
--   <h3> Web Application Deployment </h3>
+-   <h3> Cloud-Based Deployment </h3>
 
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
