@@ -52,8 +52,7 @@
 
 
 <h2> Previous Projects </h2>
-<h3> Web Developer, </h3><h3>                                   August - December 2021</h3>
-<h3> IS Development & Implementation Capstone Project, JMU & KPMG CIS Competition</h3>
+<h3> Web Developer, IS Development & Implementation Capstone Project, JMU & KPMG CIS Competition</h3>
 
 *   <i>Developed a user-friendly Web-based Application for text analysis software
 
@@ -88,6 +87,13 @@
 *   <i>By utilizing SQL Server, developed, and executed Create/Alter/Drop table statements (DDL); Transactions that included Update/Insert/Delete statements (DML); Queries such as Inner/Left-Outer/Union joins; Trigger/Stored Procedures, and Indexes
 
 *   <i>Project can be accessed at https://github.com/GasimovT/SQL 
+
+<h3> Jackson Rainey Business Plan Competition, </h3>
+<h3> Integrated Functional System - Business Plan, JMU </h3>
+
+*   <i>Contributed as Operations representative to help create Process Map, Inventory Suppliers & Distribution information, and ensure Quality Assurance
+*   <i>Successfully completed an integrated business project in collaboration with Management, Finance, and Marketing representatives as a start-up business
+*   <i>The business plan had been selected for further competition in Jackson-Rainey Business Plan Competition
 
 
 <h2> Certifications ⚡ </h2>
