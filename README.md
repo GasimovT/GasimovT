@@ -63,7 +63,7 @@
 *   <i>Presented in front of a panel of KPMG and IT Business Professionals
 
 
-<h3> Business Analyst, System & Analysis Design, JMU Course</h3>
+<h3> Business Analyst, System & Analysis Design Project, JMU Course</h3>
 
 *   <i>Created a system proposal as a part of a team for the development of a new system 
 
