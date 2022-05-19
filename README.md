@@ -81,6 +81,9 @@
 *   <i>Project can be accessed at https://github.com/GasimovT/SQL 
 
 
+<h2> Certifications ⚡ </h2>
+
+*   <i>https://github.com/GasimovT/Certifications
 
 <h2> Interests </h2>
 
