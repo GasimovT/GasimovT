@@ -52,8 +52,8 @@
 
 
 <h2> Previous Projects </h2>
-<h3> Web Developer, </h3>
-<h3> IS Development & Implementation Capstone Project, KPMG's CIS Competition</h3>
+<h3> Web Developer,                                             August - December 2021</h3>
+<h3> IS Development & Implementation Capstone Project, JMU & KPMG CIS Competition</h3>
 
 *   <i>Developed a user-friendly Web-based Application for text analysis software
 
