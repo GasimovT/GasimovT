@@ -11,7 +11,7 @@
 
 <h2>💻 I'm Currently Learning/Improving myself on:</h2>
 
--   <i> Java (University of Helsinki’s free massive open online course (MOOC))
+-   <i> Java (University of Helsinki’s free massive open online course MOOC)
 -   <i> Tableau (Tableau 2020 for data science on Udemy)
 -   <i> Python for Everybody Specialization on Coursera 
 
