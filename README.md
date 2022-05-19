@@ -50,7 +50,7 @@
 
 
 <h2> Previous Projects </h2>
-<h3> Web Developer, IS Development & Implementation Capstone, KPMG's CIS Competition</h3>
+<h3> Web Developer, IS Development & Implementation Capstone Project, KPMG's CIS Competition</h3>
 
 *   <i>Developed a user-friendly Web-based Application for text analysis software
 
