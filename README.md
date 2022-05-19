@@ -46,7 +46,7 @@
 
 
 <h2> Previous Projects </h2>
-<h3> Web Developer, IS Development & Implementation Capstone, JMU Course</h3>
+<h3> Web Developer, IS Development & Implementation Capstone, KPMG's CIS Competition</h3>
 
 *   <i>Developed a user-friendly Web-based Application for text analysis software
 
@@ -55,6 +55,8 @@
 *   <i>Back-end & Front-end Development; setting up an environment and deploying an application to AWS; assisting Client Liaison to gather functional & non-functional requirements; establishing send & receive data functionality from client’s software using REST API
 
 *   <i>Applied Agile development methodology: Scrum practices throughout the project
+
+*   <i>Presented in front of a panel of KPMG and IT Business Professionals
 
 
 <h3> Business Analyst, System & Analysis Design, JMU Course</h3>
