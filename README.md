@@ -14,14 +14,14 @@
 
 <h2> Education 🎓</h2>
 
-*   <b> B.B.A - Computer Information Systems,  </b>  <b> December 2021 </b>
+*   <b> B.B.A - Computer Information Systems, December 2021 </b>
     *   <i> <b>James Madison University (JMU)</b>, Harrisonburg, VA </i>
 
 <h2>💻 I'm Currently Learning/Improving myself on:</h2>
 
--   <i> Java (University of Helsinki’s free massive open online course MOOC)
--   <i> Tableau (Tableau 2020 for data science on Udemy)
--   <i> Python for Everybody Specialization on Coursera 
+-   <i> <b>Java</b> (University of Helsinki’s free massive open online course MOOC)
+-   <i> <b>Tableau</b> (Tableau 2020 for data science on Udemy)
+-   <i> <b>Python</b> for Everybody Specialization on Coursera 
 
 
 <h2>💻 Technical Stack </h2>
@@ -88,11 +88,11 @@
 
 *   <i>Project can be accessed at https://github.com/GasimovT/SQL 
 
-<h3> Jackson Rainey Business Plan Competition, </h3>
-<h3> Integrated Functional System - Business Plan, JMU </h3>
+<h3> Jackson Rainey Business Plan Competition, Integrated Functional Systems Project - JMU </h3>
 
-*   <i>Contributed as Operations representative to help create Process Map, Inventory Suppliers & Distribution information, and ensure Quality Assurance
-*   <i>Successfully completed an integrated business project in collaboration with Management, Finance, and Marketing representatives as a start-up business
+*   <i>Completed an integrated business project in collaboration with Management, Finance, Operations, and Marketing representatives as a start-up business
+*   <i>Contributed as Operations representative to assist in the creation of Process Map, Inventory Suppliers & Distribution information, and ensure Quality Assurance
+*   <i>Outlined our strategy, process, financials, and market segmentation to show our project is feasible
 *   <i>The business plan had been selected for further competition in Jackson-Rainey Business Plan Competition
 
 
