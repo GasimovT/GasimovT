@@ -15,7 +15,7 @@
 <h2> Education 🎓</h2>
 
 *   <b> B.B.A - Computer Information Systems, December 2021 </b>
-    *   <i> James Madison University (JMU), Harrisonburg, VA
+    *   <strong> James Madison University (JMU), Harrisonburg, VA </strong>
 
 <h2>💻 I'm Currently Learning/Improving myself on:</h2>
 
