@@ -96,9 +96,12 @@
 *   <i>The business plan had been selected for further competition in Jackson-Rainey Business Plan Competition
 
 
-<h3> Certifications ⚡ </h3>
+
+<h2> Certifications ⚡ </h2>
 
 *   <i>https://github.com/GasimovT/Certifications
+
+
 
 <h2> Interests </h2>
 
