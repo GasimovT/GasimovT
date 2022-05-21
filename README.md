@@ -6,7 +6,7 @@
 
 
 <h2> 📫 How to reach me: </h2>
-
+-   <i> (You will be redirected)
 <a href="https://www.linkedin.com/in/tofiggasimov/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://profile.indeed.com/?hl=en&co=US&from=gnav-jobseeker-profile--profile-one-frontend">![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)</a> <a href="mailto:tofiggasimov@outlook.com">![tofiggasimov@outlook.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a> 
 
 
@@ -14,7 +14,7 @@
 
 <h2> Education 🎓</h2>
 
--   <i> B.B.A - Computer Information Systems                                  December 2021
+-   <i> B.B.A - Computer Information Systems, December 2021
     -   <i> James Madison University (JMU), Harrisonburg, VA
 
 <h2>💻 I'm Currently Learning/Improving myself on:</h2>
