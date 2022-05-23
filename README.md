@@ -55,37 +55,26 @@
 <h3> Web Developer, IS Development & Implementation Capstone Project, JMU & KPMG CIS Competition</h3>
 
 *   <i>Developed a user-friendly Web-based Application for text analysis software
-
 *   <i>Utilized Microsoft SQL Server as the database and .Net as the application layer for the software interface (using C#) 
-
 *   <i>Back-end & Front-end Development; setting up an environment and deploying an application to AWS; assisting Client Liaison to gather functional & non-functional requirements; establishing send & receive data functionality from client’s software using REST API
-
 *   <i>Applied Agile development methodology: Scrum practices throughout the project
-
 *   <i>Presented in front of a panel of KPMG and IT Business Professionals
 
 
 <h3> Business Analyst, System & Analysis Design Project, JMU Course</h3>
 
 *   <i>Created a system proposal as a part of a team for the development of a new system 
-
 *   <i>Gathered user requirements by interviewing the client 
-
 *   <i>New business process allowed the company to earn additional 25% revenue over the next five years
-
 *   <i>Created consultant-grade functional and structural UML models using MS Visio and Gliffy
 
 
 <h3> Entry-Level SQL Developer, Database Design & Application Individual Project, JMU Course</h3>
 
 *   <i>Created database for inventory tracking system from scratch
-
 *   <i>Gathered requirements by interviewing several grocery chains in the local area 
-
 *   <i>Sketched out the ERD using Gliffy
-
 *   <i>By utilizing SQL Server, developed, and executed Create/Alter/Drop table statements (DDL); Transactions that included Update/Insert/Delete statements (DML); Queries such as Inner/Left-Outer/Union joins; Trigger/Stored Procedures, and Indexes
-
 *   <i>Project can be accessed at https://github.com/GasimovT/SQL 
 
 <h3> Jackson Rainey Business Plan Competition, Integrated Functional Systems Project - JMU </h3>
